@@ -1,0 +1,33 @@
+
+UI/UX Redesign Notes – Chennai Corporation Homepage
+
+1. Improved Navigation:
+   - Replaced cluttered menu with a single-layer navigation bar.
+   - Clear, grouped categories like Services, Certificates, Grievances, etc.
+
+2. Search Function:
+   - Added a central search bar to enhance discoverability of services.
+
+3. Quick Access Panels:
+   - Grid-based layout for key services like Birth Certificate, Property Tax.
+   - Uses icons and large touch-friendly buttons.
+
+4. Alert Banner:
+   - Highlighted alert section for city-wide announcements and emergencies.
+   - Bright yellow background ensures visibility.
+
+5. Visual Hierarchy:
+   - Clean sectioning (header, nav, alert, services, updates, footer).
+   - Consistent font styling and adequate spacing.
+
+6. Responsive Layout Prep:
+   - Layout built using CSS Grid and Flexbox ready for future mobile adaptation.
+
+7. Accessibility:
+   - High-contrast color scheme and readable font sizes.
+   - Semantic HTML and simplified structure for screen readers.
+
+8. Footer:
+   - Includes legal and accessibility links in a clean, fixed format.
+
+This redesign aims to deliver clarity, accessibility, and a citizen-first experience on the Chennai Corporation homepage.
